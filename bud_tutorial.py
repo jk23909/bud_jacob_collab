@@ -63,3 +63,5 @@ my_age_int = int(myAge)
 my_age_incr = my_age_int + 1
 incr_str = str(my_age_incr)
 print('You will be ' + incr_str + ' in a year.')
+
+my_addition = True
