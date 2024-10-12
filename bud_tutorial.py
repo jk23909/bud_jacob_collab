@@ -65,5 +65,5 @@ incr_str = str(my_age_incr)
 print('You will be ' + incr_str + ' in a year.')
 
 my_addition = True
-myfavorcodinggame = True 
-My_final_prediction = " Arsenal will the premier league "
+myfavorcodinggame = True
+My_final_prediction = 'Arsenal will the premier league'
